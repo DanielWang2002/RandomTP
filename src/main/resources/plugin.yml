@@ -1,0 +1,9 @@
+name: Randomtp
+version: ${project.version}
+main: mc.danielwang.randomtp.Randomtp
+api-version: 1.16
+authors: [ DanielWang ]
+description: random tp
+commands:
+  rt:
+    description: teleport player to random location
